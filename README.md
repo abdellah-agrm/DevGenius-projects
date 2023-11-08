@@ -1,9 +1,5 @@
 # DevGenius Projects
 
-![DevGenius Logo](/public/images/logo.png)
-
-## Project Description
-
 DevGenius Projects is a web application that provides developers with a steady stream of project ideas based on their selected difficulty level. Whether you're a seasoned developer looking for your next challenge or a newcomer eager to learn and create, DevGenius Projects is here to spark your creativity.
 
 ## How to Get Started
