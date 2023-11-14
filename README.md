@@ -14,15 +14,15 @@ Our website is designed to be fully responsive, ensuring a great user experience
 
 ### Large Screens (PC and Tablet)
 
-https://github.com/TheAdmi/DevGenius-projects/assets/95725338/72b43aaa-75b8-4abd-850a-e78d0deb8af3
+![DevGenius](DevGenius(pc).gif)
 
-*Click to play the video.*
+*Wait to play the GIF.*
 
 ### Mobile Screens
 
-https://github.com/TheAdmi/DevGenius-projects/assets/95725338/0dd8e272-16f1-499c-ae2f-5b6b5f204ef8
+![DevGenius](DevGenius(mobile).gif)
 
-*Click to play the video.*
+*Wait to play the GIF.*
 
 We are committed to providing an optimal user experience for all visitors, regardless of the device they are using.
 
