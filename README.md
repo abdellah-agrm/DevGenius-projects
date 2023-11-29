@@ -40,7 +40,7 @@ To get started with DevGenius Projects, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/devgenius-projects.git
+   git clone https://github.com/abdellah-agrm/devgenius-projects.git
    ```
 
 2. Install the necessary dependencies:
